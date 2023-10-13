@@ -1,10 +1,10 @@
 {
-    "name": "zyxshayne/sms",
+    "name": "diangou/live",
     "description": "this is my first pack",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Zyxshayne\\Sms\\": "src/"
+            "Diangou\\Live\\": "src/"
         }
     },
     "authors": [
