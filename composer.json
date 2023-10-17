@@ -2,6 +2,7 @@
     "name": "diangou/live",
     "description": "this is my first pack",
     "license": "MIT",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Diangou\\Live\\": "src/"
