@@ -1,17 +1,15 @@
 {
     "name": "diangou/live",
-    "description": "this is my first pack",
-    "license": "MIT",
-    "minimum-stability": "dev", 
-    "autoload": {
-        "psr-4": {
-            "Diangou\\Live\\": "src/"
-        }
+    "description": "diangou",
+    "type": "1",
+    "license": "apache2.0",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6.0"
     },
-    "authors": [
-        {
-            "name": "this is my first pack"
-        }
-    ],
-    "require": {}
+    "autoload": {
+		"psr-4": {
+			"Diangou\\": "src/diangou"  
+		}
+    }
 }
